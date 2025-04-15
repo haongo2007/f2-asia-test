@@ -4,17 +4,10 @@ Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduct
 
 ```bash
 # npm
-npm run build
+npm i
 
-# pnpm
-pnpm build
+npm run dev
 
-# yarn
-yarn build
-
-# bun
-bun run build
-```
 
 # Link bài test:  http://107.155.65.77:3008
 
